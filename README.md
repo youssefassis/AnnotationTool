@@ -1,2 +1,4 @@
-# AnnotationTool
-Slicer extension for aneurysm annotation
+# Annotation Tool
+This is a Slicer extension used for aneurysm annotation
+
+![Screenshot](./screenshot.png)
